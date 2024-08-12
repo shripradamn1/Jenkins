@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         Main main = new Main();
-        int result = main.add(5, 10);
+        int result = main.add(50, 10);
         System.out.println("Result: " + result);
     }
 }
